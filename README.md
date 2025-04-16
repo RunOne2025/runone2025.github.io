@@ -1,2 +1,2 @@
 # runone2025.github.io
-这是一个个人网站
+这是chatgpt创建的项目介绍页面！
